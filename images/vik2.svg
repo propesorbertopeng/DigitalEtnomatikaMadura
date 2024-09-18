@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 100" style="enable-background:new 0 0 200 100;" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+    .st1{fill: #8cc468}
+    .st2{fill: #fff}
+		.st0{fill:transparent;stroke:#fff;stroke-width:2;stroke-miterlimit:1;stroke-antialiasing:true;}
+
+		.st0 {
+			stroke-dasharray: 400;
+			stroke-dashoffset:0;
+			-webkit-animation: dash 2s linear infinite;
+			-o-animation: dash 2s linear infinite;
+			-moz-animation: dash 2s linear infinite;
+			animation: dash 2s linear infinite;
+		}
+
+	
+		@-webkit-keyframes dash {
+			from {
+				stroke-dashoffset: 400;
+			}
+			to {
+				stroke-dashoffset: 0;
+			}
+		}
+	
+		@keyframes dash {
+			from {
+				stroke-dashoffset: 400;
+			}
+			to {
+				stroke-dashoffset: 0;
+			}
+		}
+	
+		@-moz-keyframes dash {
+			from {
+				stroke-dashoffset: 400;
+			}
+			to {
+				stroke-dashoffset: 0;
+			}
+		}
+	
+		@-o-keyframes dash {
+			from {
+				stroke-dashoffset: 400;
+			}
+			to {
+				stroke-dashoffset: 0;
+			}
+		}
+
+		@-webkit-keyframes charging1 {
+			20%,100% {
+				opacity: 1;
+			}
+		}
+		@keyframes charging1 {
+			20%,100% {
+				opacity: 1;
+			}
+		}
+		@-webkit-keyframes charging2 {
+			0%,20% {
+				opacity: 0;
+			}
+			40%,100% {
+				opacity: 1;
+			}
+		}
+		@keyframes charging2 {
+			0%,20% {
+				opacity: 0;
+			}
+			40%,100% {
+				opacity: 1;
+			}
+		}
+		@-webkit-keyframes charging3 {
+			0%,40% {
+				opacity: 0;
+			}
+			60%,100% {
+				opacity: 1;
+			}
+		}
+		@keyframes charging3 {
+			0%,40% {
+				opacity: 0;
+			}
+			60%,100% {
+				opacity: 1;
+			}
+		}
+		@-webkit-keyframes charging4 {
+			0%,60% {
+				opacity: 0;
+			}
+			80%,100% {
+				opacity: 1;
+			}
+		}
+		@keyframes charging4 {
+			0%,60% {
+				opacity: 0;
+			}
+			80%,100% {
+				opacity: 1;
+			}
+		}
+		@-webkit-keyframes charging5 {
+			0%,80% {
+				opacity: 0;
+			}
+			100% {
+				opacity: 1;
+			}
+		}
+		@keyframes charging5 {
+			0%,80% {
+				opacity: 0;
+			}
+			100% {
+				opacity: 1;
+			}
+		}
+
+		.st1 {
+			opacity: 0;
+		}
+			.st01{
+				-webkit-animation: charging1 4s infinite;
+				animation: charging1 4s infinite;
+			}
+			.st02 {
+				
+				-webkit-animation: charging2 4s infinite ease-in-out;
+				animation: charging2 4s infinite ease-in-out;
+			}
+			.st03 {
+				-webkit-animation: charging3 4s infinite;
+				animation: charging3 4s infinite;
+			}
+			.st04 {
+				
+				-webkit-animation: charging4 4s infinite;
+				animation: charging4 4s infinite;
+			}
+			.st05 {
+				
+				-webkit-animation: charging5 4s infinite;
+				animation: charging5 4s infinite;
+			}
+
+		
+
+	</style>
+
+</defs>
+<g>
+	<path class="st0" d="M49.9,77.3H31L9.9,19.1h19.8L49.9,77.3z M52.9,19.1h19.5L52.2,75.6l-8.7-25.6L52.9,19.1z"/>
+</g>
+<g>
+	<path class="st0" d="M133.1,77.3V19.1h19.4v58.3L133.1,77.3L133.1,77.3z M155.5,69.1V40.8l13.6-21.7h20.2L155.5,69.1z M190.3,77.3h-21
+		l-6.6-13.6l11.5-17.3L190.3,77.3z"/>
+</g>
+<path class="st2" d="M110.8,20.9H106v-3.5H93.5v3.5H89c-3,0-5.4,2.4-5.4,5.3v46.9c0,2.9,2.4,5.3,5.4,5.3h21.8c3,0,5.4-2.4,5.4-5.3V26.2
+	C116.2,23.3,113.8,20.9,110.8,20.9z"/>
+<path class="st2" d="M112.6,73.1c0,1-0.8,1.8-1.8,1.8H89c-1,0-1.8-0.8-1.8-1.8V26.2c0-1,0.8-1.8,1.8-1.8h21.8c1,0,1.8,0.8,1.8,1.8V73.1z"/>
+
+<path class="st1 st01" d="M110.7,72.2H89.2V64h21.5V72.2z"/>
+<path class="st1 st03" d="M110.7,52.2H89.2V44h21.5V52.2z"/>
+<path class="st1 st02" d="M110.7,62.2H89.2V54h21.5V62.2z"/>
+<path class="st1 st04" d="M110.7,42.2H89.2V34h21.5V42.2z"/>
+</svg>
